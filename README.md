@@ -17,16 +17,13 @@ OR
 # How to use
 - When the program starts, enter your name so that it can keep track of the scores
 
-      Enter your name: {your name}
+![name](https://github.com/nazazly/currency_converter/assets/134792092/519ecd62-741a-4155-a0d6-0334b125b268)
   
 - This will be the main playing area, enjoy and beat the computer! (you're off to a bad start...)
   
-      Welcome, {your name}, to Rock, Paper, Scissors!
-      Enter your choice (rock, paper, or scissors): rock
-      {your name}, you chose rock. Computer chose paper.
-      Computer wins!
-      Score - {your name}: 0, Computer: 1
-      Do you want to play again? (y/n):
+     
+![playing area](https://github.com/nazazly/currency_converter/assets/134792092/c2d1af98-c145-4479-9978-8951335063c4)
+
 
 ***Be sure to check out the demo clip in the file to see how to program runs!***
 
