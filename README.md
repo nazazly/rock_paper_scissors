@@ -28,5 +28,9 @@ OR
       Score - {your name}: 0, Computer: 1
       Do you want to play again? (y/n):
 
+# Key Takeaways
+1. Practiced if statements and use it to produce a game.
+2. Added score tracker to keep the game more interesting and competitive.
+
 # Contact
 If you have any questions or issues, feel free to contact me at aezz99@gmail.com
