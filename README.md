@@ -27,4 +27,6 @@ OR
       Computer wins!
       Score - {your name}: 0, Computer: 1
       Do you want to play again? (y/n):
-    
+
+# Contact
+If you have any questions or issues, feel free to contact me at aezz99@gmail.com
