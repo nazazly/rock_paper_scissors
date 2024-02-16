@@ -28,6 +28,8 @@ OR
       Score - {your name}: 0, Computer: 1
       Do you want to play again? (y/n):
 
+***Be sure to check out the demo clip in the file to see how to program runs!***
+
 # Key Takeaways
 1. Practiced if statements and use it to produce a game.
 2. Added score tracker to keep the game more interesting and competitive.
